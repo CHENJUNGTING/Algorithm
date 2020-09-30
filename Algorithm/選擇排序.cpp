@@ -9,7 +9,7 @@ int main(){
 	int j = 0;
 	int smallest;
 	for(int i = 0; i < var ; i++) scanf(" %d",&array[i]);
-	//¿ï¾Ü±Æ§Ç
+	//selection soft
 	for(int i = 0 ;i < var - 1 ; i++){
 		j = i;
 		smallest = array[i];
